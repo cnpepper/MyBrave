@@ -1,0 +1,174 @@
+Quick-Cocos2d-x C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: C:/cocos/quick-3.3/quickproject/brave/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = C:\cocos\quick-3.3\quickproject\brave\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 960.00
+
+[LUA-print] [INFO] # display.height               = 640.00
+
+[LUA-print] [INFO] # display.cx                   = 480.00
+
+[LUA-print] [INFO] # display.cy                   = 320.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 960.00
+
+[LUA-print] [INFO] # display.top                  = 640.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -480.00
+
+[LUA-print] [INFO] # display.c_right              = 480.00
+
+[LUA-print] [INFO] # display.c_top                = 320.00
+
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] touch hattck
+
+[LUA-print] attack
+
+[LUA-print] touch hattck
+
+[LUA-print] table: 08C167A8 [StateMachine] ERROR: error INVALID_TRANSITION_ERROR, event clickEnemy, from attack to attack
+
+[LUA-print] [ERR] event clickEnemy inappropriate in current state attack
+
+[LUA-print] 
+stack traceback:
+	[string ".\framework/cc/components/behavior/StateMachine.lua"]:318: in function 'onError_'
+	[string ".\framework/cc/components/behavior/StateMachine.lua"]:158: in function <[string ".\framework/cc/components/behavior/StateMachine.lua"]:135>
+	(tail call): ?
+	[string ".\app/roles/player.lua"]:104: in function 'doEvent'
+	[string ".\app/scenes/MainScene.lua"]:72: in function <[string ".\app/scenes/MainScene.lua"]:69>
+	(tail call): ?
+	[string ".\framework/cocos2dx/NodeEx.lua"]:394: in function <[string ".\framework/cocos2dx/NodeEx.lua"]:348>
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
+[LUA-print] move
+
+[LUA-print] idle
+
